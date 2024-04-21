@@ -2,25 +2,25 @@
 Fivem standalone anticheat based on an cloud online panel and string detections
 
 
-anti blacklist weapons
-anti blacklist pickup
-anti blacklist peds
-anti night vision si celalalt vision
-anti armour
-anti tiny ped
-anti walk speed
-anti vehcile modifier
-anti teleport
-anti resource start
-anti spectate
-anti track player
-anti devtools
-anti aimbot
-anti silent aim
-anti superjump
-anti semigodmode
-anti godmode
-anti blacklist cars
+anti blacklist weapons,
+anti blacklist pickup,
+anti blacklist peds,
+anti night vision and thermal vision,
+anti armour,
+anti tiny ped,
+anti walk speed,
+anti vehcile modifier,
+anti teleport,
+anti resource start,
+anti spectate,
+anti track player,
+anti devtools,
+anti aimbot,
+anti silent aim,
+anti superjump,
+anti semigodmode,
+anti godmode,
+anti blacklist cars,
 anti blacklist events
 
 all working

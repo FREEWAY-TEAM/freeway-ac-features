@@ -31,4 +31,6 @@ Spoiler:
 
 ![Capture-2](https://github.com/FREEWAY-TEAM/freeway-ac-features/assets/166235157/d5a9ce26-87fb-412a-a92a-c09dab694e65)
 
+MENU made with "vue" and "tailwind"
+
 
